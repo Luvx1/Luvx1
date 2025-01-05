@@ -1,6 +1,6 @@
 ![Coding GIF](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7VLakGxXY3xoBe7Tn4yhk2mhhvZrfWLCV3HpZOvJcdVrXaYUR3pRrpFXb8IEEM_IxCTmQCSCAK2I_QedxEAxR8Y0mV418qCg-CRMctCB93CtJlU9ZpvNLvVEwXKYV0VN7ZOcubBVJeSw/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Mai Anh Khôi (Luvx1)</h1>
-<h3 align="center">A passionate software developer from Vietnam.</h3>
+<h3 align="center">A passionate software developer from Vietnam 🇻🇳.</h3>
 <img align="right" alt="coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExajBhd3hrczY3OWZ4OTg1a28zcnhpdmFpYmxidDJjdXFmbmh6ZTlpNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IpeYSEZshTefe/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luvx1&label=Profile%20views&color=0e75b6&style=flat" alt="luvx1" /> </p>
