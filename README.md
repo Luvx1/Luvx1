@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **anhkhoi35463@gmail.com**
 
-- ⚡ Fun fact **When I'm not coding, you'll probably find me hiking, playing guitar, or diving into a good sci-fi novel.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
