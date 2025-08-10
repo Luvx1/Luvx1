@@ -61,9 +61,5 @@ My specialization is **Software Engineering**.
 
 <p align="center">
   <a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=114195582&activity_type=all" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=114195582&activity_type=all&image_size=auto&color_scheme=dark" style="width: 100%; max-width: 497.5px; height: auto;">
-      <img alt="@Luvx1's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=114195582&activity_type=all&image_size=auto&color_scheme=light" style="width: 100%; max-width: 497.5px; height: auto;">
-    </picture>
   </a>
 </p>
