@@ -1,5 +1,6 @@
 <!-- Banner -->
-![Header](<img width="800" height="200" alt="image" src="https://github.com/user-attachments/assets/700984a2-16e5-4793-9fe6-39ff5ffb8129" />
+![Header](<![1742480304127](https://github.com/user-attachments/assets/1d2bf3d4-9517-4220-b945-1d9aa648025f)
+" />
 )
 
 # Hello World, I'm Andy 🌍
