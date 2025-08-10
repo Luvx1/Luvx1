@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <p align="center">
-  <img src="assets/header.png" alt="Header" style="width: 100%; max-width: 800px;"/>
+  <img src="https://user-images.githubusercontent.com/114195582/224937528-4b9ab948-c78b-428b-bdaf-cc335763b1b3.png" alt="Header" style="width: 100%; max-width: 800px;"/>
 </p>
 
 <h1 align="center">Hello World, I'm Andy 🌍</h1>
