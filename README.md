@@ -1,5 +1,6 @@
 <!-- Banner -->
-![Header](https://raw.githubusercontent.com/your-username/your-username/main/banner.png)
+![Header](<img width="800" height="200" alt="image" src="https://github.com/user-attachments/assets/700984a2-16e5-4793-9fe6-39ff5ffb8129" />
+)
 
 # Hello World, I'm Andy 🌍
 
