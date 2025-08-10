@@ -51,15 +51,15 @@ My specialization is **Software Engineering**.
 </p>
 
 <p align="center">
-  <a href="https://next.ossinsight.io/widgets/official/compose-activity-trends?repo_id=41986369" target="_blank">
+  <a href="https://next.ossinsight.io/widgets/official/compose-activity-trends?user_id=170724833" target="_blank">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=dark" style="width: 100%; max-width: 815px; height: auto;">
-      <img alt="Activity Trends of pingcap/tidb - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=light" style="width: 100%; max-width: 815px; height: auto;">
+      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?user_id=170724833&image_size=auto&color_scheme=dark" style="width: 100%; max-width: 815px; height: auto;">
+      <img alt="Activity Trends of my GitHub - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?user_id=170724833&image_size=auto&color_scheme=light" style="width: 100%; max-width: 815px; height: auto;">
     </picture>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=114195582&activity_type=all" target="_blank">
+  <a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=170724833&activity_type=all" target="_blank">
   </a>
 </p>
