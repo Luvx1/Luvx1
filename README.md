@@ -1,12 +1,18 @@
-<!-- Banner -->
-![Header](<![1742480304127](https://github.com/user-attachments/assets/1d2bf3d4-9517-4220-b945-1d9aa648025f)
-" />
-)
+<!-- Header Section -->
+<p align="center">
+  <img src="assets/header.png" alt="Header" style="width: 100%; max-width: 800px;"/>
+</p>
 
-# Hello World, I'm Andy 🌍
+<h1 align="center">Hello World, I'm Andy 🌍</h1>
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
+<p align="center">
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/your-link">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -38,17 +44,26 @@ My specialization is **Software Engineering**.
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=andyninety9&show_icons=true&theme=tokyonight&hide=contribs,issues" alt="GitHub Stats" style="width: 100%; max-width: 600px;" />
+</p>
 
----
+<p align="center">
+  <a href="https://next.ossinsight.io/widgets/official/compose-activity-trends?repo_id=41986369" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=dark" style="width: 100%; max-width: 815px; height: auto;">
+      <img alt="Activity Trends of pingcap/tidb - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=light" style="width: 100%; max-width: 815px; height: auto;">
+    </picture>
+  </a>
+</p>
 
-## 📈 Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark&hide_border=true)
-
----
-
-## 🏆 Achievements
-![Trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+<p align="center">
+  <a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=114195582&activity_type=all" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=114195582&activity_type=all&image_size=auto&color_scheme=dark" style="width: 100%; max-width: 497.5px; height: auto;">
+      <img alt="@andyninety9's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=114195582&activity_type=all&image_size=auto&color_scheme=light" style="width: 100%; max-width: 497.5px; height: auto;">
+    </picture>
+  </a>
+</p>
