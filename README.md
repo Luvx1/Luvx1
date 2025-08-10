@@ -17,7 +17,7 @@
 ---
 
 ## 👨‍💻 About Me
-I am a student at **PTIT University**.  
+I am a student at **UEF University**.  
 My specialization is **Software Engineering**.  
 
 📍 Proudly from **Vietnam**, striving to contribute globally with an open heart and mind.  
