@@ -50,14 +50,7 @@ My specialization is **Software Engineering**.
   <img src="https://github-readme-stats.vercel.app/api?username=Luvx1&show_icons=true&theme=tokyonight&hide=contribs,issues" alt="GitHub Stats" style="width: 100%; max-width: 600px;" />
 </p>
 
-<p align="center">
-  <a href="https://next.ossinsight.io/widgets/official/compose-activity-trends?user_id=170724833" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?user_id=170724833&image_size=auto&color_scheme=dark" style="width: 100%; max-width: 815px; height: auto;">
-      <img alt="Activity Trends of my GitHub - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?user_id=170724833&image_size=auto&color_scheme=light" style="width: 100%; max-width: 815px; height: auto;">
-    </picture>
-  </a>
-</p>
+<!-- Removed Activity Trends Section -->
 
 <p align="center">
   <a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=170724833&activity_type=all" target="_blank">
